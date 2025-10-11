@@ -1,5 +1,56 @@
 # Hi, I'm Sunaina 👋
-I'm a Data Analyst with a Master's in Computer Science and hands-on experience transforming complex datasets into actionable insights. I specialize in building interactive dashboards, optimizing data pipelines, and supporting data-driven decision-making across operations and business intelligence. Currently completing my thesis on global renewable energy adoption using predictive modeling and statistical analysis.
+I'm a Data Analyst with a Master's in Computer Science and hands-on experience transforming complex datasets into actionable insights.  
+I specialize in building interactive dashboards, optimizing data pipelines, and supporting data-driven decision-making across operations and business intelligence.  
+Currently completing my thesis on **global renewable energy adoption** using predictive modeling and statistical analysis.
+
+---
+
+## 💼 Professional Experience
+
+### Working Student – DevOps | Tivian XI GmbH  
+📍 Cologne, Germany (Remote)  
+📅 **Aug 2023 – Aug 2024**
+
+- Developed and maintained **15+ interactive dashboards** in Power BI and Grafana, transforming complex operational data into actionable insights for leadership.  
+- Built and optimized **ETL pipelines** connecting Prometheus, Loki, and Thanos datasets, improving reporting accuracy by **30%**.  
+- Analyzed system performance metrics using SQL and time-series data to forecast capacity and guide infrastructure decisions.  
+- Collaborated with BI, QA, and Operations teams to define and track KPIs, improving SLA compliance and executive reporting quality.  
+- Delivered weekly reports with analytical recommendations that drove data-informed decisions and proactive issue resolution.
+
+---
+
+### Working Student – IT Support | Expert Systems AG  
+📍 Berlin, Germany  
+📅 **Jan 2023 – Aug 2023**
+
+- Led **data quality and asset management** for over 50 company devices, ensuring complete traceability across hardware lifecycle data.  
+- Queried and analyzed user data from **Google BigQuery** using SQL to generate insights on software adoption and performance trends.  
+- Automated device monitoring workflows via **ManageEngine** on Mac systems, improving efficiency.  
+- Analyzed Jira support data to uncover bottlenecks, reducing ticket resolution time by **15%**.  
+- Built a structured **knowledge base** in Confluence to standardize troubleshooting and documentation.
+
+---
+
+### Operations Executive | Uber India  
+📍 Bangalore, India (Remote)  
+📅 **Feb 2022 – May 2022**
+
+- Processed and standardized **500+ product records** using AWS-based systems to improve catalog data accuracy and discoverability.  
+- Conducted large-scale data cleaning and validation to ensure consistent taxonomy and classification standards.  
+- Built **Excel-based dashboards** to track project progress, detect inconsistencies, and report KPIs to the operations team.  
+- Partnered with cross-functional stakeholders to enhance data integrity and streamline reporting workflows.  
+
+---
+
+## 🎓 Education
+
+**M.Sc. Computer Science**  
+*IU International University of Applied Sciences, Berlin, Germany*  
+📅 Apr 2022 – Jan 2026  
+
+**B.Tech. Computer Science Engineering**  
+*Bangalore Institute of Technology, Bangalore, India*  
+📅 2017 – 2021  
 
 ---
 
@@ -50,17 +101,18 @@ I'm a Data Analyst with a Master's in Computer Science and hands-on experience t
 ---
 
 ### 📚 Thesis – *In Progress*  
-Currently working on my final thesis project, focused on applying data analytics and ML principles.  
+Currently working on my final thesis project focused on applying data analytics and ML principles.  
 More details and GitHub link will be added soon.
 
-**Tools:** Python, pandas, scikit-learn, statsmodels, Power BI
+**Tools:** Python, pandas, scikit-learn, statsmodels, Power BI  
 
-Analyzing renewable energy adoption across 180+ countries using panel regression, ARIMA forecasting, and K-Means clustering. Built reproducible ETL pipeline processing IRENA and World Bank datasets with 3,800+ observations.
+Analyzing **renewable energy adoption across 180+ countries** using panel regression, ARIMA forecasting, and K-Means clustering.  
+Built reproducible ETL pipeline processing IRENA and World Bank datasets with 3,800+ observations.
 
 ---
 
 ## 🧠 Skills
-**Languages:** Python, SQL, C 
+**Languages:** Python, SQL, C  
 **Tools:** Power BI (DAX Functions), Tableau, Grafana, Excel (Pivot Tables, VLOOKUP, Advanced Charts), Google Analytics, ETL Processes, KPI Design & Tracking, Data Cleaning, Data Transformation, Statistical Analysis, Data Warehousing, Data Modeling, Predictive Analytics, AWS, Azure, Docker, Kubernetes, Prometheus, Loki, Thanos, Jira, Confluence, ManageEngine, Git, HTML  
 **Areas:** Data Analytics, Business Intelligence, Data Visualization, Operations Analytics, Predictive Analytics, Process Optimization, Decision Intelligence
 
@@ -74,3 +126,4 @@ Analyzing renewable energy adoption across 180+ countries using panel regression
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect if you’d like to collaborate.*
+
