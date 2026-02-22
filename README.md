@@ -1,7 +1,7 @@
 # Hi, I'm Sunaina 👋
 I'm a Data Analyst with a Master's in Computer Science and hands-on experience transforming complex datasets into actionable insights.  
 I specialize in building interactive dashboards, optimizing data pipelines, and supporting data-driven decision-making across operations and business intelligence.  
-Currently completing my thesis on **global renewable energy adoption** using predictive modeling and statistical analysis.
+Completed my Master's thesis on global renewable energy adoption using econometric modeling, machine learning, and predictive analytics.
 
 ---
 
