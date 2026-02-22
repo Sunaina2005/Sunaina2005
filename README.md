@@ -101,8 +101,7 @@ Completed my Master's thesis on global renewable energy adoption using econometr
 ---
 
 ### 📚 Thesis – [Modelling and Forecasting Global Renewable Energy Adoption: A Data-Driven Analysis of Causal and Predictive Patterns Using Authoritative Sources](https://github.com/Sunaina2005/Thesis-Renewable-Energy-Adoption-Data-Analysis)
-📅 **Sept 2025 - Feb 2026**
-**Tools:** Python, pandas, statsmodels, scikit-learn, XGBoost, SHAP, Prophet, ARIMA  
+📅 **Sept 2025 - Feb 2026**                                                                                                                                                               **Tools:** Python, pandas, statsmodels, scikit-learn, XGBoost, SHAP, Prophet, ARIMA  
 
 - Analyzed renewable energy adoption patterns across 211 countries (2000-2023) using econometric modeling and machine learning.
 - Built Fixed Effects panel regression with clustered standard errors on 5,064 country-year observations to identify causal drivers.
