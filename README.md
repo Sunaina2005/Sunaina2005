@@ -100,14 +100,17 @@ Currently completing my thesis on **global renewable energy adoption** using pre
 
 ---
 
-### 📚 Thesis – *In Progress*  
-Currently working on my final thesis project focused on applying data analytics and ML principles.  
-More details and GitHub link will be added soon.
+### 📚 Thesis – [Modelling and Forecasting Global Renewable Energy Adoption: A Data-Driven Analysis of Causal and Predictive Patterns Using Authoritative Sources](https://github.com/Sunaina2005/Thesis-Renewable-Energy-Adoption-Data-Analysis)
+📅 **Sept 2025 - Feb 2026**
+**Tools:** Python, pandas, statsmodels, scikit-learn, XGBoost, SHAP, Prophet, ARIMA  
 
-**Tools:** Python, pandas, scikit-learn, statsmodels, Power BI  
-
-Analyzing **renewable energy adoption across 180+ countries** using panel regression, ARIMA forecasting, and K-Means clustering.  
-Built reproducible ETL pipeline processing IRENA and World Bank datasets with 3,800+ observations.
+- Analyzed renewable energy adoption patterns across 211 countries (2000-2023) using econometric modeling and machine learning.
+- Built Fixed Effects panel regression with clustered standard errors on 5,064 country-year observations to identify causal drivers.
+- Compared forecasting models (ARIMA, Prophet, XGBoost) across Germany, India, and USA to evaluate predictive accuracy.
+- Applied K-Means clustering and PCA to classify countries into four adoption typologies based on economic and infrastructure characteristics.
+- Used SHAP explainability analysis to interpret machine learning predictions and ensure model transparency.
+- Key finding: Economic development and infrastructure readiness explain 74% of cross-country variation in renewable energy adoption.
+- Built reproducible Python pipeline processing data from IRENA, World Bank, REN21, and Energy Institute sources.
 
 ---
 
