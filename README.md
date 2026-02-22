@@ -46,7 +46,7 @@ Completed my Master's thesis on global renewable energy adoption using econometr
 
 **M.Sc. Computer Science**  
 *IU International University of Applied Sciences, Berlin, Germany*  
-📅 Apr 2022 – Jan 2026  
+📅 Apr 2022 – Feb 2026  
 
 **B.Tech. Computer Science Engineering**  
 *Bangalore Institute of Technology, Bangalore, India*  
