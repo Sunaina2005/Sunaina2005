@@ -4,7 +4,20 @@ I specialize in building interactive dashboards, optimizing data pipelines, and 
 Completed my Master's thesis on global renewable energy adoption using econometric modeling, machine learning, and predictive analytics.
 
 ---
+## 🌐 Live Interactive Dashboard
 
+**[View Dashboard →](https://sunaina2005.github.io/Thesis-Renewable-Energy-Adoption-Data-Analysis/)**
+
+Explore the findings through an interactive dashboard featuring:
+- Global renewable capacity trends (2000-2023)
+- Country-level comparative analysis  
+- GDP vs capacity correlation
+- Technology distribution
+- Interactive world map
+
+Built with Python (Plotly) and hosted on GitHub Pages.
+
+---
 ## 💼 Professional Experience
 
 ### Working Student – DevOps | Tivian XI GmbH  
