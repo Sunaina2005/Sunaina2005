@@ -1,7 +1,7 @@
 # Hi, I'm Sunaina 👋
-I'm a Data Analyst with a Master's in Computer Science and hands-on experience transforming complex datasets into actionable insights.  
-I specialize in building interactive dashboards, optimizing data pipelines, and supporting data-driven decision-making across operations and business intelligence.  
-Completed my Master's thesis on global renewable energy adoption using econometric modeling, machine learning, and predictive analytics.
+Junior DevOps & IT Support specialist with a Master's in Computer Science and 2 years of hands-on experience in production cloud infrastructure, monitoring stacks, and endpoint management.
+I build and maintain the systems that keep infrastructure observable and reliable — ETL/ELT pipelines, Grafana monitoring dashboards, automated alerting, and endpoint operations across Mac and Windows environments.
+📍 Based in Berlin, Germany | Open to Junior DevOps, Cloud Operations & IT Support roles
 
 ---
 ## 🌐 Live Interactive Dashboard
@@ -20,15 +20,15 @@ Built with Python (Plotly) and hosted on GitHub Pages.
 ---
 ## 💼 Professional Experience
 
-### Working Student – DevOps | Tivian XI GmbH  
+### Working Student – DevOps (Cloud & IT Operations)  | Tivian XI GmbH  
 📍 Cologne, Germany (Remote)  
 📅 **Aug 2023 – Aug 2024**
 
-- Developed and maintained **15+ interactive dashboards** in Power BI and Grafana, transforming complex operational data into actionable insights for leadership.  
-- Built and optimized **ETL pipelines** connecting Prometheus, Loki, and Thanos datasets, improving reporting accuracy by **30%**.  
-- Analyzed system performance metrics using SQL and time-series data to forecast capacity and guide infrastructure decisions.  
-- Collaborated with BI, QA, and Operations teams to define and track KPIs, improving SLA compliance and executive reporting quality.  
-- Delivered weekly reports with analytical recommendations that drove data-informed decisions and proactive issue resolution.
+- Designed and optimised ETL/ELT pipelines connecting Prometheus, Loki, and Thanos, **improving reporting accuracy by 30% and reducing data lag across production monitoring systems**.  
+- Maintained **15+ production monitoring dashboards in Grafana**, supporting SLA compliance and uptime tracking for cloud infrastructure and services..  
+- Built SQL-based anomaly detection on production time-series metrics, flagging infrastructure anomalies before escalation and reducing unplanned incidents — shifting team operations from reactive to proactive.  
+- Automated alerting and notification workflows in Prometheus and Grafana, reducing manual monitoring overhead for the Cloud & IT Operations team. 
+- Collaborated with DevOps, QA, and Development teams to align on monitoring requirements and implement infrastructure observability improvements across production systems.
 
 ---
 
@@ -36,11 +36,8 @@ Built with Python (Plotly) and hosted on GitHub Pages.
 📍 Berlin, Germany  
 📅 **Jan 2023 – Aug 2023**
 
-- Led **data quality and asset management** for over 50 company devices, ensuring complete traceability across hardware lifecycle data.  
-- Queried and analyzed user data from **Google BigQuery** using SQL to generate insights on software adoption and performance trends.  
-- Automated device monitoring workflows via **ManageEngine** on Mac systems, improving efficiency.  
-- Analyzed Jira support data to uncover bottlenecks, reducing ticket resolution time by **15%**.  
-- Built a structured **knowledge base** in Confluence to standardize troubleshooting and documentation.
+- Administered ManageEngine Endpoint Central to remotely install software, push forced updates, configure printers, and provide remote helpdesk support across Mac and Windows systems.  
+- Managed IT asset inventory, assigned software licences, and maintained task documentation in Jira and Confluence — ensuring accurate tracking across the organisation.
 
 ---
 
@@ -48,10 +45,7 @@ Built with Python (Plotly) and hosted on GitHub Pages.
 📍 Bangalore, India (Remote)  
 📅 **Feb 2022 – May 2022**
 
-- Processed and standardized **500+ product records** using AWS-based systems to improve catalog data accuracy and discoverability.  
-- Conducted large-scale data cleaning and validation to ensure consistent taxonomy and classification standards.  
-- Built **Excel-based dashboards** to track project progress, detect inconsistencies, and report KPIs to the operations team.  
-- Partnered with cross-functional stakeholders to enhance data integrity and streamline reporting workflows.  
+- Standardised **500+ product records in AWS systems** — driving a **20% improvement in product discoverability** and ensuring data integrity across the catalogue.  
 
 ---
 
